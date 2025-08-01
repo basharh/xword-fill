@@ -1,0 +1,273 @@
+{
+    "ncols": 10,
+    "nrows": 10,
+    "words": [
+      {
+        "clue": "أديب مصري راحل إشتهر بقصصه ووصف حياة الطبقات الشعبية",
+        "column": 0,
+        "direction": "row",
+        "row": 0,
+        "word": "محمودتيمور"
+      },
+      {
+        "clue": "صفة الحمل",
+        "column": 0,
+        "direction": "row",
+        "row": 1,
+        "word": "وديع"
+      },
+      {
+        "clue": "حكم قضائي بالموت ",
+        "column": 5,
+        "direction": "row",
+        "row": 1,
+        "word": "أعدام"
+      },
+      {
+        "clue": "خصب",
+        "column": 0,
+        "direction": "row",
+        "row": 2,
+        "word": "رو"
+      },
+      {
+        "clue": "عائلة رسّام وأديب إسباني راحل من أساتذة الفن السريالي",
+        "column": 3,
+        "direction": "row",
+        "row": 2,
+        "word": "دالي"
+      },
+      {
+        "clue": "قلب الثمرة ",
+        "column": 8,
+        "direction": "row",
+        "row": 2,
+        "word": "لب"
+      },
+      {
+        "clue": "يضع خفية",
+        "column": 0,
+        "direction": "row",
+        "row": 3,
+        "word": "يدس"
+      },
+      {
+        "clue": "إله التجارة عند الرومان وإبن جوبيتر",
+        "column": 4,
+        "direction": "row",
+        "row": 3,
+        "word": "ميركور"
+      },
+      {
+        "clue": "بيت الضبع",
+        "column": 2,
+        "direction": "row",
+        "row": 4,
+        "word": "وجار"
+      },
+      {
+        "clue": "أدام النظر إليه بسكون الطرف",
+        "column": 7,
+        "direction": "row",
+        "row": 4,
+        "word": "رنا"
+      },
+      {
+        "clue": "جزيرة إيطالية في المتوسط نفي اليها نابوليون",
+        "column": 0,
+        "direction": "row",
+        "row": 5,
+        "word": "البا"
+      },
+      {
+        "clue": "ضمير منفصل",
+        "column": 5,
+        "direction": "row",
+        "row": 5,
+        "word": "انت"
+      },
+      {
+        "clue": "مغنية لبنانية من عائلة أرمنية",
+        "column": 0,
+        "direction": "row",
+        "row": 6,
+        "word": "نورهان"
+      },
+      {
+        "clue": "ما رزّ في الحائط أو األرض من خشب ونحوه",
+        "column": 7,
+        "direction": "row",
+        "row": 6,
+        "word": "وتد"
+      },
+      {
+        "clue": "عسل",
+        "column": 2,
+        "direction": "row",
+        "row": 7,
+        "word": "اري"
+      },
+      {
+        "clue": "فراديس",
+        "column": 6,
+        "direction": "row",
+        "row": 7,
+        "word": "جنات"
+      },
+      {
+        "clue": "ظرف مكان ",
+        "column": 0,
+        "direction": "row",
+        "row": 8,
+        "word": "اين"
+      },
+      {
+        "clue": "جعل الأملاك الخاصة ملكًا للدولة",
+        "column": 4,
+        "direction": "row",
+        "row": 8,
+        "word": "أمم"
+      },
+      {
+        "clue": "قائد سوداني ورئيس دولة سابق أطاح جعفر النميري  بإنقلاب سلمي",
+        "column": 1,
+        "direction": "row",
+        "row": 9,
+        "word": "سوارالذهب"
+      },
+      {
+        "clue": "جمهورية إسلامية في أفريقيا الغربية على الأطلسي",
+        "column": 0,
+        "direction": "column",
+        "row": 0,
+        "word": "موريتانيا"
+      },
+      {
+        "clue": "حواجز بين الـدول",
+        "column": 1,
+        "direction": "column",
+        "row": 0,
+        "word": "حدود"
+      },
+      {
+        "clue": "للتمني",
+        "column": 1,
+        "direction": "column",
+        "row": 5,
+        "word": "لو"
+      },
+      {
+        "clue": "نعم بالأجنبية",
+        "column": 1,
+        "direction": "column",
+        "row": 8,
+        "word": "يس"
+      },
+      {
+        "clue": "نوتة موسيقية",
+        "column": 2,
+        "direction": "column",
+        "row": 0,
+        "word": "مي"
+      },
+      {
+        "clue": "النغم الأعلى في الموسيقى لدى النساء",
+        "column": 2,
+        "direction": "column",
+        "row": 3,
+        "word": "سوبرانو"
+      },
+      {
+        "clue": "فنانة ومغنية سعودية",
+        "column": 3,
+        "direction": "column",
+        "row": 0,
+        "word": "وعد"
+      },
+      {
+        "clue": "أعلن الحقيقة بصوت عـالٍ",
+        "column": 3,
+        "direction": "column",
+        "row": 4,
+        "word": "جاهر"
+      },
+      {
+        "clue": "أداة شرط وتوكيد",
+        "column": 4,
+        "direction": "column",
+        "row": 2,
+        "word": "اما"
+      },
+      {
+        "clue": "شهر ميلادي",
+        "column": 4,
+        "direction": "column",
+        "row": 6,
+        "word": "ايار"
+      },
+      {
+        "clue": "سياسي فرنسي إشتهر بدهائه لعب دورًا في مؤتمر  فيينا في القرن التاسع عشر",
+        "column": 5,
+        "direction": "column",
+        "row": 0,
+        "word": "تاليران"
+      },
+      {
+        "clue": "إسم موصول",
+        "column": 5,
+        "direction": "column",
+        "row": 8,
+        "word": "ما"
+      },
+      {
+        "clue": "يعيّب وينسب إليه القبح",
+        "column": 6,
+        "direction": "column",
+        "row": 0,
+        "word": "يعير"
+      },
+      {
+        "clue": "من الحيوانات",
+        "column": 6,
+        "direction": "column",
+        "row": 7,
+        "word": "جمل"
+      },
+      {
+        "clue": "بسط قدميه",
+        "column": 7,
+        "direction": "column",
+        "row": 0,
+        "word": "مد"
+      },
+      {
+        "clue": "ورق مقوّى",
+        "column": 7,
+        "direction": "column",
+        "row": 3,
+        "word": "كرتون"
+      },
+      {
+        "clue": "عائلة عالم نفسي فرنسي راحل له دراسات هامّة عن الطفل",
+        "column": 8,
+        "direction": "column",
+        "row": 0,
+        "word": "والون"
+      },
+      {
+        "clue": "شـارد وضـال",
+        "column": 8,
+        "direction": "column",
+        "row": 6,
+        "word": "تاءه"
+      },
+      {
+        "clue": "رسّـام هولندي من نوابغ الفن في عصره",
+        "column": 9,
+        "direction": "column",
+        "row": 0,
+        "word": "رمبراندت"
+      }
+    ]
+  }
+
